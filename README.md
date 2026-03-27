@@ -23,4 +23,8 @@ PHP Homework
 ![alt text](image-4.png)
 
 -Q6
+<<<<<<< HEAD
 ![alt text](image-5.png)
+=======
+![alt text](image-5.png)
+>>>>>>> e395d2d (README)
