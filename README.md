@@ -1,5 +1,5 @@
 # J1_PHP
-PHP Homework
+Homework-1
 
 # ⚙️Technology
 -**HTML**
