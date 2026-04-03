@@ -8,28 +8,28 @@ Homework-1
 
 # 👌Screenshots:
 -Q1
-![alt text](image.png)
+image/image.png
 
 -Q2
-![alt text](image-1.png)
+image/image1.png
 
 -Q3
-![alt text](image-2.png)
+image/image2.png
 
 -Q4
-![alt text](image-3.png)
+image/image3.png
 
 -Q5
-![alt text](image-4.png)
+image/image4.png
 
 -Q6
-![alt text](image-5.png)
+image/image5.png
 
 # Session-1
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+image/image6.png
+image/image7.png
+image/image8.png
+image/image9.png
+image/image10.png
+image/image11.png
 
